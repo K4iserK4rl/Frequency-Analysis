@@ -1,12 +1,3 @@
-# Author:       Trevor Karl
-# ULID:         C00441253
-# Course:       CMPS 315_Spring 2021
-# Assignment:   pa1 - Frequency Analysis
-#
-# Certification of Authenticity:
-# I certify that this assignment is entirely my own work
-
-
 #Counts the occurrence of each letter in alphabetical order
 def letterCount(file):
 
